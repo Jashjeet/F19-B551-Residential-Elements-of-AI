@@ -1,5 +1,5 @@
 # a2
-#### Submitted by Jasjheet Madan, Devansh Jain and Sanyam Rajpal.
+#### Submitted by Jasjheet Madan
 ## Problem I
 
 In this part of the assignment, we were supposed to create an AI which could play a game similar to 2048 tile game. We have tried implementing our AI through a game search tree and adversarial search approach.
